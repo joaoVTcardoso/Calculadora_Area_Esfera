@@ -1,0 +1,2 @@
+1) variavel que consiga armazenar uma informação de uma esfera como raio ou o diametro 
+2) pedir as duas informações mais acessiveis possiveis como o diametro ou a circunferencia 
